@@ -1,0 +1,112 @@
+body{
+  background-image: url(tenger.jpg);
+}
+#cimsor{
+  color:rgb(15, 34, 206);
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  text-align: center;
+}
+#bevezeto{
+  color:white;
+  font-family: 'Courier New', Courier, monospace;
+  font-style:italic;
+  font-size: 18px;
+  width: 600px;
+  float: right;
+  padding: 15px;
+  background-color:rgb(23, 164, 183);
+  margin-bottom: 20px;
+}
+#vonal{
+  clear: both;
+  margin: 20px 0;
+}
+h2{
+  color:rgb(15, 34, 206);
+  font-size:40px ;
+  text-align: center;
+}
+.kep {
+	width: 300px;
+	border: none;
+	margin: 30px;
+}
+.orszag{
+  float: left;
+  width: 550px;
+  height: 500px;
+  padding: 15px;
+  margin: 15px;
+  border: 2px solid white;
+  background-color: rgb(121, 187, 176);
+}
+ol{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+  font-weight: bold;
+  color:rgb(15, 34, 206);
+}
+sup, sub{
+  color: blueviolet;
+}
+a{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-weight: bold;
+}
+a:link{
+  color: rebeccapurple ;
+}
+a:hover{
+  color: rgb(224, 131, 24);
+}
+a:visited{
+  color: red;
+}
+a:active{
+  color: darkgreen;
+}
+#fejlec{
+  background-color:rgb(121, 187, 176);
+  border: none;
+  margin: 0 auto 0 auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+  font-weight: bold;
+  font-style: italic;
+  color:rgb(82, 5, 112);
+}
+th{
+  padding: 5px 38px;
+}
+td{
+  color: red;
+  text-align: center;
+  padding: 5px 38px;
+}
+h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: italic;
+  color:rgb(82, 5, 112);
+}
+footer{
+  background-color: rgb(56, 49, 49);
+  height: 380px;
+  color: red;
+  margin: 0 auto 0 auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: italic;
+}
+h4{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 18px;
+}
